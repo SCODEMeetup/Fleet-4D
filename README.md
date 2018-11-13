@@ -1,7 +1,7 @@
 # Fleet-4D
 Using time-geography to visualize COTA trip data
 
-![alt text](https://github.com/SCODEMeetup/Fleet-4D/Images/COTA-4D.png)
+![alt text](https://github.com/SCODEMeetup/Fleet-4D/blob/master/Images/COTA-4D.png)
 
 With inspiration from the transit [visualization](http://mbtaviz.github.io/) tool [Jesse](MathematicsCLtd) found for the Boston MBTA, 
 I decided to make one in Unity in 4D. There's a dropdown to select a route, although that part doesn't work yet (it's taking too long to parse the file after making the selection). 
